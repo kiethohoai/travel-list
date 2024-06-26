@@ -16,3 +16,5 @@ CHAP 07 - Thinking In React State Management
 006 Deleting an Item More Child-to-Parent Communication!
 007 Updating an Item Complex Immutable Data Operation
 008 Derived State
+009 Calculating Statistics as Derived State
+010 Sorting Items
