@@ -1,6 +1,8 @@
 import { useState } from "react";
 import FlashCards from "./FlashCards";
+import Counter from "./Counter";
 
+// #TRAVEL LIST
 // const initialItems = [
 //   { id: 1, description: "Passports", quantity: 2, packed: false },
 //   { id: 2, description: "Socks", quantity: 12, packed: true },
@@ -97,11 +99,20 @@ import FlashCards from "./FlashCards";
 //   );
 // }
 
-// App For FlashCard Exercise
+// FLASHCARD
+// export default function App() {
+//   return (
+//     <div>
+//       <FlashCards />
+//     </div>
+//   );
+// }
+
+// COUNTER
 export default function App() {
   return (
-    <div>
-      <FlashCards />
+    <div className="App">
+      <Counter />
     </div>
   );
 }
