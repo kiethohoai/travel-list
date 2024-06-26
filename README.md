@@ -6,3 +6,9 @@
 019 State vs. Props
 020 EXERCISE #1 Flashcards
 021 CHALLENGE #2 Date Counter (v2)
+
+CHAP 07 - Thinking In React State Management
+001 Section Overview
+002 What is Thinking in React
+003 Fundamentals of State Management
+004 Thinking About State and Lifting State Up Loading...
